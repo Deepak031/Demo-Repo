@@ -1,3 +1,3 @@
 This is my first Git Repository
 <br>
-Author-Deepak Mishra
+Author-Deepak Mishra (Developer)
